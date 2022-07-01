@@ -26,3 +26,14 @@ The database is kept , but if we were to do a hash table it would rebuild everyt
 ![transposition](https://user-images.githubusercontent.com/64399795/176795108-b7af4490-95c9-4a02-8120-ef84c0a185c8.png)
 ![image](https://user-images.githubusercontent.com/64399795/176797340-5f0da284-f6a8-44c8-9375-7436a592a517.png)
 
+# Use the data to train a network
+
+The collected data in the database is then stored as a csv and then used in a python script to train the network 
+
+# Results
+
+![Accuracy](https://user-images.githubusercontent.com/64399795/176797618-b5cd82f0-3405-49fd-a3bb-8e6182e0f6cb.png)
+![Loss](https://user-images.githubusercontent.com/64399795/176797622-cee046f9-5ba9-4d8e-b539-951b6e3cb5b8.png)
+![training](https://user-images.githubusercontent.com/64399795/176797635-695d0b8f-f2dd-45ba-8604-bbc5ebc26e4c.png)
+![Test](https://user-images.githubusercontent.com/64399795/176797639-31464b0c-9413-4083-af91-a23fd713bd66.png)
+
